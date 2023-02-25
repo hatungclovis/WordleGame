@@ -9,7 +9,7 @@ hatungclovis@gmail.com
 
 For this project, I wrote a code that simulates the Wordle game but with new functionalities. Below are the things my code is expected to do:
 
-- At the start of the game, the code checks if the database (files that contain English words) exists in the main directory. If the files exist, it reads and extracts all the English words (370,105 words) and the common English words ((2,992 words). If not, the code goes on the internet and scrapes (fetches) all English words and the common English words and saves them as two separate files in the main directory where the code is running from.
+- At the start of the game, the code checks if the database (files that contain English words) exists in the main directory. If the files exist, it reads and extracts **all the English words (370,105 words) and the common English words ((2,992 words)**. If not, the code goes on the internet and scrapes (fetches) all English words and the common English words and saves them as two separate files in the main directory where the code is running from.
 - The user chooses the difficulty level of the game:
   - **Easy**: the user gets 7 retries
   - **Medium**: the user gets 5 retries
